@@ -13,7 +13,7 @@ main:
   #  url: /portfolio/
   
   - title: "CV"
-    url: /cv/
+    url: https://github.com/soroushomidvar/cv/blob/master/Resume.pdf #/cv/
         
   - title: "Blog Posts"
     url: /year-archive/
