@@ -14,5 +14,5 @@ My research interest focuses on data mining and machine learning, and I am inter
 
 Word Cloud of my recently published papers:
 
-![Editing a markdown file for a talk](/images/wordcloud30p.jpg)
+![Editing a markdown file for a talk](/images/wordcloud-30p.jpg)
 
