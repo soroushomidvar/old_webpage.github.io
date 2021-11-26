@@ -13,7 +13,7 @@ main:
   #  url: /portfolio/
   
   - title: "CV"
-    url: https://github.com/soroushomidvar/cv/blob/master/Resume.pdf #/cv/
+    url: https://nbviewer.org/github/soroushomidvar/cv/blob/master/Resume.pdf #https://github.com/soroushomidvar/cv/blob/master/Resume.pdf #/cv/
     
   - title: "Awards"
     url: /awards/
