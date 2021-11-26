@@ -14,6 +14,9 @@ main:
   
   - title: "CV"
     url: https://github.com/soroushomidvar/cv/blob/master/Resume.pdf #/cv/
+    
+  - title: "Awards"
+    url: /Awards/
         
   - title: "Blog Posts"
     url: /year-archive/
