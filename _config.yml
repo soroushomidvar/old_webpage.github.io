@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soroush Omidvar Tehrani"
+title                    : "Soroush Omidvartehrani"
 title_separator          : "-"
-name                     : &name "Soroush Omidvar Tehrani"
+name                     : &name "Soroush Omidvartehrani"
 description              : &description ""
 url                      : "http://sesh.ir" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
