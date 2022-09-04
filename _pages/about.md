@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. and M.Sc. in computer engineering from Ferdowsi University of Mashhad, Iran, in 2017 and 2020, respectively, and Currently, I'm a member of the IP-PBX type approval lab at this university.
+I am a Ph.D. student at the University of Alberta and a member of the DB lab at this university. I received my B.Sc. and M.Sc. in Computer Engineering from Ferdowsi University of Mashhad, Iran, in 2017 and 2020, respectively.
 
-My research interest focuses on data mining and machine learning, and I am interested in research at the intersection of IoT data and anomaly detection.
+My research interest focuses on streaming data and machine learning, and I am interested in research at the intersection of IoT data and anomaly detection.
 
 Word Cloud of my recently published papers:
 
