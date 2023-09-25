@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Alberta and a member of the DB lab at this university. I received my B.Sc. and M.Sc. in Computer Engineering from Ferdowsi University of Mashhad, Iran, in 2017 and 2021, respectively.
-
-My research interest focuses on streaming data and machine learning, and I am interested in research at the intersection of IoT data and anomaly detection.
+A Computer Science Ph.D. student at the University of Alberta and a member of the university's DB lab. Graduated with B.Sc. and M.Sc. degrees in Computer Engineering from Ferdowsi University of Mashhad in 2017 and 2021, respectively. Passionate about studying data integration, streaming data and machine learning, especially at the intersection of IoT data and anomaly detection.
 
 Word Cloud of my recently published papers:
 
