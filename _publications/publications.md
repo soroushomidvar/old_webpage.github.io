@@ -1,9 +1,3 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/publications
----
-
 GXJoin: Generalized Cell Transformations for Explainable Joinability, Soroush Omidvartehrani, Arash Dargahi Nobari, Davood Rafiei, European Conference on Advances in Databases and Information Systems (ADBIS 2024), held in Bayonne, France
 
 Discovering and Integrating Tabular Data, Davood Rafiei, Arash Dargahi Nobari, Soroush Omidvartehrani, Tabular Data Analysis (TaDA) Workshop @ VLDB 2023, held in Vancouver, Canada
