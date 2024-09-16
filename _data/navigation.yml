@@ -1,8 +1,5 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
-
   #- title: "Talks"
   #  url: /talks/    
 
@@ -14,9 +11,12 @@ main:
   
   - title: "CV"
     url: https://nbviewer.org/github/soroushomidvar/cv/blob/master/Resume.pdf #https://github.com/soroushomidvar/cv/blob/master/Resume.pdf #/cv/
-    
+ 
   - title: "Awards"
     url: /awards/
+  
+  - title: "Publications"
+    url: /publications/
         
   - title: "Blog Posts"
     url: /year-archive/
