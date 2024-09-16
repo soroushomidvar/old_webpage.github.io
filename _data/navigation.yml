@@ -16,7 +16,7 @@ main:
     url: /awards/
   
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=Nv4Sc0QAAAAJ&hl=en # /publications/
         
   - title: "Blog Posts"
     url: /year-archive/
